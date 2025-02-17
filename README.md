@@ -1,5 +1,5 @@
 # Mehdi.github.io
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html dir="rtl">
 <head>
     <meta charset="UTF-8">
